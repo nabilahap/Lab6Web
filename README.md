@@ -14,13 +14,15 @@
 3.Buat modul artikel yang berisi CRUD dengan memanfaatkan library database dan form tersbut.<p>
 4.File `index.php` berisi proses routing aplikasi dan dikombinasikan dengan penggunaan mod_rewrite pada file `.htaccess`<p>
 
+
 ## Home
 ![Gambar 1](img/Screenshot1.jpg)
 
 ## Tambah Data
-![Gambar 2](img/Screenshot(2).png)
+![Screenshot2](https://user-images.githubusercontent.com/92380488/233065630-c9213ed8-2e9a-41fe-b799-5ad448df9bfd.png)
 
 ## Edit
-![Gambar 3](img/Screenshot(3).png)
+![Screenshot3](https://user-images.githubusercontent.com/92380488/233065701-7afc5c41-e999-438d-9def-d65622d0a739.png)
+
 
 ## Terimakasih
