@@ -18,9 +18,9 @@
 ![Gambar 1](img/Screenshot1.jpg)
 
 ## Tambah Data
-![Gambar 2](img/Screenshot2.png)
+![Gambar 2](img/Screenshot(2).png)
 
 ## Edit
-![Gambar 3](img/Screenshot3.png)
+![Gambar 3](img/Screenshot(3).png)
 
 ## Terimakasih
